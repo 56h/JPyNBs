@@ -18,4 +18,4 @@
 **test_features.csv** - признаки для тестового множества  
 **sample_submission.csv** - пример решения в правильном формате  
   
-[Решение...](Project_03.ipynb)
+[Решение...](Sibur_2020.ipynb)
